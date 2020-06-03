@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/recycle_item_color">
+
+    <TextView
+        android:id="@+id/title_edit"
+        android:layout_margin="@dimen/standart_dimens"
+        android:maxLines="1"
+        android:textAllCaps="true"
+        android:textColor="@color/item_text_color"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/title_hint"/>
+
+    <TextView
+        android:id="@+id/note_edit"
+        android:layout_margin="@dimen/standart_dimens"
+        android:maxLines="1"
+        android:textColor="@color/item_text_color"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/note_hint"/>
+
+    <TextView
+        android:id="@+id/edit_date"
+        android:textSize="12sp"
+        android:textColor="@color/item_date_color"
+        android:layout_margin="@dimen/standart_dimens"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>

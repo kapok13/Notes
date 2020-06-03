@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6D0319</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#CC074B</color>
+    <color name="recycle_item_color">#000</color>
+    <color name="item_text_color">#ECE4E4</color>
+    <color name="item_date_color">#6B6A6A</color>
+</resources>

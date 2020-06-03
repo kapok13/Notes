@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="title_hint">Enter title for note</string>
+    <string name="note_hint">Enter note</string>
+    <string name="save">Save</string>
+    <string name="empty_list">List is empty</string>
+    <string name="connect_problem">Connection problem</string>
+    <string name="new_note">New note</string>
+</resources>
